@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Deep Learning
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Brain Tumour Segmentation and Classification](/sample_page)
+<img src="images/images/brain_tumour_segmentation/original.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
