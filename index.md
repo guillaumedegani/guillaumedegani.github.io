@@ -9,7 +9,7 @@
 
 ---
 [Household Power Consumption Prediction using LSTM](/pdf/sample_presentation.pdf)
-<img src="images/lstm_prediction.png?raw=true"/>
+<img src="images/lstm_prediction_cut.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
