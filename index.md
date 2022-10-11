@@ -5,7 +5,7 @@
 ### Deep Learning
 
 [Brain Tumour Segmentation and Classification](/sample_page)
-<img src="images/brain_tumour_segmentation/Diagrame.png?raw=true"/>
+<img src="images/brain_tumour_segmentation/Diagrame.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
