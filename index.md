@@ -8,8 +8,8 @@
 <img src="images/brain_tumour_segmentation/Diagrame.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Household Power Consumption Prediction using LSTM](/pdf/sample_presentation.pdf)
+<img src="images/lstm_prediction.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
