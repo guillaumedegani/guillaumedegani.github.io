@@ -12,7 +12,7 @@
 <img src="images/lstm_prediction_cut.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[AGI Estimation using Machine Learning](http://example.com/)
 <img src="images/AGI_ML.jpg?raw=true"/>
 
 ---
