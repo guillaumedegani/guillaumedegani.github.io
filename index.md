@@ -4,7 +4,7 @@
 
 ### Deep Learning
 
-[Brain Tumour Segmentation and Classification](/sample_page)
+[Brain Tumour Segmentation and Classification](https://github.com/guillaumedegani/brain-tumour-segmentation)
 <img src="images/brain_tumour_segmentation/Diagrame.jpg?raw=true"/>
 
 ---
