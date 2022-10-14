@@ -19,8 +19,8 @@
 
 ### Presentations
 
-- [Project 1 Title](/pdf/presentation/sample_presentation.pdf)
-- [Project 2 Title](/pdf/presentation/sample_presentation.pdf)
+- [Deep Image Prior](/pdf/presentation/Deep Prior Learning.pdf)
+- [piRNA prediction](/pdf/presentation/piRNA prediction.pdf)
 ---
 
 
