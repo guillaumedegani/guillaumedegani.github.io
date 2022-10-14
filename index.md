@@ -19,8 +19,8 @@
 
 ### Presentations
 
-- [Deep Image Prior](/pdf/presentation/Deep Prior Learning.pdf)
-- [piRNA prediction](/pdf/presentation/piRNA prediction.pdf)
+- [Deep Image Prior](/pdf/presentation/Deep_Image_Prior.pdf)
+- [piRNA prediction](/pdf/presentation/piRNA_prediction.pdf)
 ---
 
 
