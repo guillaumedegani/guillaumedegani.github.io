@@ -19,8 +19,15 @@
 
 ### Data Analyses
 
+---
+
 [Titanic Survival Rate Analyses](https://github.com/guillaumedegani/brain-tumour-segmentation)
 <img src="images/titanic_diagram.jpg?raw=true"/>
+
+---
+
+[Fall detection Classification](https://github.com/guillaumedegani/brain-tumour-segmentation)
+<img src="images/fall_detection.jpg?raw=true"/>
 
 
 ### Presentations
