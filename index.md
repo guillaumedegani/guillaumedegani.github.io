@@ -8,7 +8,7 @@
 <img src="images/brain_tumour_segmentation/Diagrame.jpg?raw=true"/>
 
 ---
-[Household Power Consumption Prediction using LSTM](/pdf/sample_presentation.pdf)
+[Household Power Consumption Prediction using LSTM](/html_pages/introduction_to_lstm.html)
 <img src="images/lstm_prediction_cut.png?raw=true"/>
 
 ---
