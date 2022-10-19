@@ -21,12 +21,13 @@
 
 ---
 
-[Titanic Survival Rate Analyses](https://github.com/guillaumedegani/brain-tumour-segmentation)
+[Titanic Survival Rate Analyses](/html_pages/titanic_survival.html)
 <img src="images/titanic_diagram.jpg?raw=true"/>
 
 ---
 
-[Fall detection Classification](https://github.com/guillaumedegani/brain-tumour-segmentation)
+[Fall detection Classification](/html_pages/fall_detection_classification.html)
+
 <img src="images/fall_detection.jpg?raw=true"/>
 
 ---
