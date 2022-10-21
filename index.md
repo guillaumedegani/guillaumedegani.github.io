@@ -36,7 +36,7 @@
 
 [Ray Tracing Using C++](/html_pages/fall_detection_classification.html)
 
-<img src="images/ray_traycing.jpg?raw=true"/>
+<img src="images/ray_traycing.png?raw=true"/>
 
 ---
 
