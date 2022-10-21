@@ -32,6 +32,18 @@
 
 ---
 
+### Other Projects
+
+[Ray Tracing Using C++](/html_pages/fall_detection_classification.html)
+
+<img src="images/fall_detection.jpg?raw=true"/>
+
+---
+
+[Join Five Using C](/html_pages/fall_detection_classification.html)
+
+<img src="images/fall_detection.jpg?raw=true"/>
+
 ### Presentations
 
 - [Deep Image Prior](/pdf/presentation/Deep_Image_Prior.pdf)
