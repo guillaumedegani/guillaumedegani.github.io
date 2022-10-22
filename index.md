@@ -12,7 +12,7 @@
 <img src="images/lstm_prediction_cut.png?raw=true"/>
 
 ---
-[AGI Estimation using Machine Learning](http://example.com/)
+[AGI Estimation using Machine Learning](http://example.com/](https://github.com/guillaumedegani/AGI-Esitmation-Using-ML)
 <img src="images/AGI_ML.jpg?raw=true"/>
 
 ---
@@ -36,7 +36,7 @@
 
 ---
 
-[Ray Tracing Using C++]([/html_pages/fall_detection_classification.html](https://github.com/guillaumedegani/ray_traycing))
+[Ray Tracing Using C++](https://github.com/guillaumedegani/ray_traycing)
 
 <img src="images/ray_traycing.png?raw=true"/>
 
