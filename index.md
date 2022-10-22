@@ -34,26 +34,16 @@
 
 ### Other Projects
 
-[Ray Tracing Using C++](/html_pages/fall_detection_classification.html)
+---
+
+[Ray Tracing Using C++]([/html_pages/fall_detection_classification.html](https://github.com/guillaumedegani/ray_traycing))
 
 <img src="images/ray_traycing.png?raw=true"/>
 
----
 
-[Join Five Using C](/html_pages/fall_detection_classification.html)
-
-<img src="images/fall_detection.jpg?raw=true"/>
 
 ### Presentations
 
 - [Deep Image Prior](/pdf/presentation/Deep_Image_Prior.pdf)
 - [piRNA prediction](/pdf/presentation/piRNA_prediction.pdf)
 
----
-
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
