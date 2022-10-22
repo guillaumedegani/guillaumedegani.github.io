@@ -12,7 +12,7 @@
 <img src="images/lstm_prediction_cut.png?raw=true"/>
 
 ---
-[AGI Estimation using Machine Learning](http://example.com/](https://github.com/guillaumedegani/AGI-Esitmation-Using-ML)
+[AGI Estimation using Machine Learning](https://github.com/guillaumedegani/AGI-Esitmation-Using-ML)
 <img src="images/AGI_ML.jpg?raw=true"/>
 
 ---
